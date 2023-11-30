@@ -28,5 +28,8 @@ p {
     border: 15px;
     }
  .pure-g
-{width:25%;
+{
+    align-content: flex-start;
+    display: flex;
+    flex-flow: row wrap;
 }
