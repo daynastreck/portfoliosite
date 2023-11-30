@@ -1,0 +1,29 @@
+body {
+  align: center;
+  background-image: url("bgroundflower.png");
+  background-color: green;
+}
+
+.pure-img
+{align:center}
+.mymargins {margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 200px;}
+
+
+.pure-menu-list {background-color: white;
+}
+
+p {
+  align: center;
+  width: 300px;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+  background-color: white; opacity: 0.8; color: rgba(65,54,57,1)}
+
+  .grids-example
+    {padding: 30px;
+    border: 15px;
+  }
