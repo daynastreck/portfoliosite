@@ -26,4 +26,7 @@ p {
   .grids-example
     {padding: 30px;
     border: 15px;
-  }
+    }
+ .pure-g
+{width:25%;
+}
